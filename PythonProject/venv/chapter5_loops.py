@@ -22,3 +22,5 @@ for number in range(1,11):
         pass
     else:
         print("The Number is {}".format(number))
+
+print(fruits)
